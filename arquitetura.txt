@@ -1,4 +1,4 @@
-Os Carros Eletrons possuirá uma interface gráfica de facil gerenciamento e com comando de voz
+Os Carros Electrons possuirá uma interface gráfica de facil gerenciamento e com comando de voz
 para ter o maximo de agilidade para o usuario.
 
 O software será conectado a uma servidor cloud para armazenar informações de cadastro dos usuarios, esse cadastro hávera
@@ -9,7 +9,7 @@ O Veiculo será totalmente automatizado, isto é, sem condutor.
 O destino que o usuario inserir poderá ser alterado até durante a roda para o destino atual.
  
 Após o inicio da viagem, o carro flutuará a 1,30 metros do solo por segurança, para que não danifique o veiculo.
-O motor dos Carros Eletrons será elétrico com uma pequena carga adiconal para emergencias, como o carro não haverá condutor
+O motor dos Carros Electrons será elétrico com uma pequena carga adiconal para emergencias, como o carro não haverá condutor
 ele terá um sistema em que assim que atingir 20% de bateria restante ele recusá viagens e se dirigirá para o posto de manutenção 
 da Positron Plus mais proximo, caso esteja longe de um posto a pequena carga adicional assumirá ate a chegada do destino para abastecimento.
 
@@ -22,4 +22,4 @@ O app terá após a criação de conta um video tutorial de como manusear suas f
 hávera diferentes tipos de carros de acordo com a exigencia do cliente, os carros seram diferenciados por classes porém
 com nomes personalizados como: 
 
-Eletron Economico, Eletron Simples e Eletron Robusto.
+Electron Economico, Electron Simples e Electron Robusto.
