@@ -1,0 +1,5 @@
+O sistema realiza a liberação de carros voadores por meios de tickets eletronicos fornecidos por qrcode.
+O passageiro pode dividir a viagem com ate duas pessoas.
+A plataforma de embarque possuirá um sensor de aproximação, calor e voz, será nescessario assionar um codigo no aplicativo de transporte 
+depois de realizar o pagamento via qrcode para liberar o Carro Eletron.
+Dentro haverá um painel simples para selecionar a localização de desembarque em pontos estrategicos que possui a estação da empresa Positron Plus.

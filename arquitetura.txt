@@ -1,0 +1,25 @@
+Os Carros Eletrons possuirá uma interface gráfica de facil gerenciamento e com comando de voz
+para ter o maximo de agilidade para o usuario.
+
+O software será conectado a uma servidor cloud para armazenar informações de cadastro dos usuarios, esse cadastro hávera
+diferentes tipos de verificações de duas etapas para que a conta e seus dados de pagamento estejam armazenados com segurança.
+
+O Veiculo será totalmente automatizado, isto é, sem condutor. 
+
+O destino que o usuario inserir poderá ser alterado até durante a roda para o destino atual.
+ 
+Após o inicio da viagem, o carro flutuará a 1,30 metros do solo por segurança, para que não danifique o veiculo.
+O motor dos Carros Eletrons será elétrico com uma pequena carga adiconal para emergencias, como o carro não haverá condutor
+ele terá um sistema em que assim que atingir 20% de bateria restante ele recusá viagens e se dirigirá para o posto de manutenção 
+da Positron Plus mais proximo, caso esteja longe de um posto a pequena carga adicional assumirá ate a chegada do destino para abastecimento.
+
+Pensando em possiveis falhas ou até mesmo em incendios ou acidentes, o veiculo possuirá airbag anti-chamas 
+e um sistema de destravamento quando o veiculo pegar fogo e a inteligencia artificial do veiculo enviará um alerta para os 
+veiculos de emergencias mais proximos. Em caso de colisão após a vitima ser hospitalizada ela terá sua conta médica paga pela empresa
+e em caso de óbito um seguro de vida e funerário.
+ 
+O app terá após a criação de conta um video tutorial de como manusear suas formas de pagamento e de como pedir suas corridas
+hávera diferentes tipos de carros de acordo com a exigencia do cliente, os carros seram diferenciados por classes porém
+com nomes personalizados como: 
+
+Eletron Economico, Eletron Simples e Eletron Robusto.

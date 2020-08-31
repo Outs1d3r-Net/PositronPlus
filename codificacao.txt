@@ -1,0 +1,9 @@
+
+O sistema dos carros Eletrons será desenvolvido em java pois é uma linguagem que contém aprimoramentos importantes para melhorar o desempenho 
+de diversos mecanismos, java tambem é de longe a mais utilizada para IoT.
+
+Java é uma linguagem Multi-Threaded e é facil na criação de aplicativos mobiles.
+
+Java é mult-plataforma por tanto não haverá problemas para adaptar aplicativos para diferentes dispositivos.
+
+
